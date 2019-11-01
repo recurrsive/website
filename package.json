@@ -2,7 +2,7 @@
   "name": "prof-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://recurrsive.github.io/website",
+  "homepage": "https://recurrsive.github.io/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.2",
